@@ -2,7 +2,7 @@
 dias_em_um_ano = 365
 
 dias_em_um_mes = 30
-
+#Oi 
 dia_nascimento = 0
 mes_nascimento = 0
 ano_nascimento = 0
