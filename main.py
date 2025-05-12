@@ -6,6 +6,7 @@ mes_nascimento = 5
 ano_nascimento = 1998
 data_nascimento = f"{dia_nascimento}/{mes_nascimento}/{ano_nascimento}" 
 
+#tentando enviar 
 dia_atual = 14
 mes_atual = 5
 ano_atual = 2025
